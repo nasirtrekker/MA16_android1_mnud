@@ -1,2 +1,4 @@
 # MA16_android1_mnud
-This repository is for my first sample android app for a course at Nackademin
+This repository contain code for  :
+- Java code for  tictatoe  app
+- Ongoing android project 
